@@ -1,6 +1,6 @@
 # 1st-individual-project
 The idea i want to create is the game Sudoku
-- Description: The game is created by 3x3 big square, each is created by 3x3 small square.
+- Description: The game is created by 9x9 big square, each is created by 3x3 small square.
                The purpose is to fill all the small square by numbers from 0 to 9, which isn't repeated in a big square, in a column or in a row.
 - Functionality: This program can fill some constant random numbers which follow the rules.
                  When all numbers are filled, if the numbers are repeated, the small squares containt them will flash.
