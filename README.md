@@ -1,5 +1,6 @@
 # 1st-individual-project
 The idea i want to create is the game Sudoku
+
 - Description: The game is created by 9x9 big square, each is created by 3x3 small square.
                The purpose is to fill all the small square by numbers from 0 to 9, which isn't repeated in a big square, in a column or in a row.
 - Functionality: This program can fill some constant random numbers which follow the rules.
@@ -22,4 +23,4 @@ The idea i want to create is the game Sudoku
                     highlight_conflicts(): Identifies and highlights cells with conflicting numbers.
                 Functions:
                     enerate_random_numbers(board): Fills the board with a random set of initial numbers, ensuring they follow Sudoku rules.
-                    flash_cells(cells): Visually highlights the cells containing conflicts
+                    flash_cells(cells): Visually highlights the cells containing conflicts 
